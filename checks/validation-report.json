@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T02:04:02.668853+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/cp01-observatory/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "ccf96755da6885aefc5e67530d4472aa32a1403efeb27202e147192ef054c565",
+      "errors": []
+    },
+    {
+      "path": "midi/cp01-observatory/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "8fc93384f934ef70ceeccb08d06858b70e19c4cbc8a6d796ace8c1cc642decd0",
+      "errors": []
+    },
+    {
+      "path": "midi/cp01-observatory/cp01-observatory-combined.mid",
+      "bytes": 2828,
+      "sha256": "64cefbc27933e357c06d6e43857e3cb13e91eccbbc8eaf25569b31a7d52abcf0",
+      "errors": []
+    },
+    {
+      "path": "midi/cp01-observatory/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/cp01-observatory/principal_motif.mid",
+      "bytes": 472,
+      "sha256": "f99dd48faee3b7a8d54e49dbfe0acde832ea0e5e9afe45d17ed798e321cc3372",
+      "errors": []
+    },
+    {
+      "path": "midi/cp01-observatory/sub_bass.mid",
+      "bytes": 373,
+      "sha256": "92b99874083caec97e395ec2d45c75bd72a41cdf1e772ef9eeaa0bd16310ee9a",
+      "errors": []
+    },
+    {
+      "path": "midi/cp01-observatory/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "cd64a01b78eb372f982d9a1f9b6a3c5666b4be47216b9fc8db7a5c1bf5ba9592",
+      "errors": []
+    },
+    {
+      "path": "midi/cp02-pale-orbit/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "7a9c51630357bf1fb4e9c5c94926205ccf36c7e37e9754e0e90fa0b1119b0293",
+      "errors": []
+    },
+    {
+      "path": "midi/cp02-pale-orbit/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "aaccc70382c173ed3638cfff1a204b66c088b30bd5f13bffb7d152c689244298",
+      "errors": []
+    },
+    {
+      "path": "midi/cp02-pale-orbit/cp02-pale-orbit-combined.mid",
+      "bytes": 2827,
+      "sha256": "4464d646825de3a3517af3bbaaf505bc7184e1b12e0b7230cd58e6582c267f61",
+      "errors": []
+    },
+    {
+      "path": "midi/cp02-pale-orbit/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/cp02-pale-orbit/principal_motif.mid",
+      "bytes": 471,
+      "sha256": "115b9ac64254cdbb4e408751f132f4d26f98c51600e483a7da23cbe408b2feca",
+      "errors": []
+    },
+    {
+      "path": "midi/cp02-pale-orbit/sub_bass.mid",
+      "bytes": 373,
+      "sha256": "fc9e25c7bec1137248c1223e7d731b02c892f54de91ec005568becf6d7607927",
+      "errors": []
+    },
+    {
+      "path": "midi/cp02-pale-orbit/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "a10823263ed68fa7a8f1b75c2dc69b7c0bce612c08bf2a441a07965f9c3d514c",
+      "errors": []
+    },
+    {
+      "path": "midi/cp03-stone-silence/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "6706c844153eb18934d56ab093854911dbb5a88019cc5cc0298f1f073946b893",
+      "errors": []
+    },
+    {
+      "path": "midi/cp03-stone-silence/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "ee09f69fa5594b9a1025f7fc4f213795dda01c253a16ee75d33fcdf40cf940bf",
+      "errors": []
+    },
+    {
+      "path": "midi/cp03-stone-silence/cp03-stone-silence-combined.mid",
+      "bytes": 2809,
+      "sha256": "3e64c56aaf9fc06b7336748335380642770191b837c927b469befe237c9d62b6",
+      "errors": []
+    },
+    {
+      "path": "midi/cp03-stone-silence/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/cp03-stone-silence/principal_motif.mid",
+      "bytes": 453,
+      "sha256": "87cd069cc3dc838f60991a87dadbb69d497be2fcdaad4ba369ffc967d278c013",
+      "errors": []
+    },
+    {
+      "path": "midi/cp03-stone-silence/sub_bass.mid",
+      "bytes": 373,
+      "sha256": "e5525ee10329dd98045c051a85c895c88ab4b4d5586c59a393a51cc6af591cdd",
+      "errors": []
+    },
+    {
+      "path": "midi/cp03-stone-silence/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ce20ddf597092642c21a9294b2db07845245542f0fd4c74aefe0252bd8138e4c",
+      "errors": []
+    },
+    {
+      "path": "midi/cp04-first-light/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "2160ccd14560758b7015da8856764b611d9fc7a74b998f23010f6be709e8d89a",
+      "errors": []
+    },
+    {
+      "path": "midi/cp04-first-light/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "51a8bf06b0419d133d0c4489989a5b108ebb099e6b9c7cf3e35fb79b3bae27bc",
+      "errors": []
+    },
+    {
+      "path": "midi/cp04-first-light/cp04-first-light-combined.mid",
+      "bytes": 2809,
+      "sha256": "24f533c33e6a373b65ce55eaa7163db5e4ca6af222605b58ce32d24a828d4740",
+      "errors": []
+    },
+    {
+      "path": "midi/cp04-first-light/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/cp04-first-light/principal_motif.mid",
+      "bytes": 453,
+      "sha256": "903fbd220d7a4a3073fe1406185f617c1ed1462bebb97217f14638c7f1738f90",
+      "errors": []
+    },
+    {
+      "path": "midi/cp04-first-light/sub_bass.mid",
+      "bytes": 373,
+      "sha256": "ba46d5a921f2a7b23742c1545e3008704fe9b0b792c2c1e057f3d5bd6a751cae",
+      "errors": []
+    },
+    {
+      "path": "midi/cp04-first-light/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "8f27bf4d2da874984705d47f3526535f9e21af22caed75480c1d0104d50f47ff",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

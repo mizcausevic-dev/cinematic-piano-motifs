@@ -1,0 +1,26 @@
+{
+  "title": "Cinematic Piano Motifs",
+  "study": "cp01",
+  "bpm": 72,
+  "source_audio": "preview/cinematic-piano-motifs-simple-synth-preview.mp3",
+  "source_audio_sha256": "8ad86c21506b3618a5e4532cd7af80ed7e447eca56e60290f884e74d9a207786",
+  "source_midi": "midi/cp01-observatory/cp01-observatory-combined.mid",
+  "source_midi_sha256": "64cefbc27933e357c06d6e43857e3cb13e91eccbbc8eaf25569b31a7d52abcf0",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "66648b5cce255e9babe5edd3c02b8c635a240e58d267331f666419e32d41788e",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "0721324f1147794b6aa3f344d55344e13bbf32638432e2acc4be9102a6f3f314",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "3ea27cff32d15ccfbb6ec04c57d2e8d05d31475b817eff5dc0c7aaf7b6330cc0",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
