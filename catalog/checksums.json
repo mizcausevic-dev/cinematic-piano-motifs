@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/cinematic-piano-motifs-midi.zip",
-      "bytes": 21814,
-      "sha256": "f2c233027b7ad3191d868de526a0a2ad3963a36ee722af29d6393847b4265b4e"
+      "bytes": 23244,
+      "sha256": "16a2574a49585049b3854465876bfed28c549597f6462c94d00f1e9eac8ec677"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9560,
-      "sha256": "42c2b33aa7abc1b34fd771c933f75696413a589d9cc629b55db786af87bb3613"
+      "bytes": 9750,
+      "sha256": "b42c821ac000b1aba5e6e9afdae46d7ab87d545449fe393d4b9cb927acd7df47"
     },
     {
       "path": "midi/cp01-observatory/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "8f27bf4d2da874984705d47f3526535f9e21af22caed75480c1d0104d50f47ff"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/cinematic-piano-motifs-simple-synth-preview.mp3",
       "bytes": 2573627,
       "sha256": "8ad86c21506b3618a5e4532cd7af80ed7e447eca56e60290f884e74d9a207786"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3892,
-      "sha256": "d85935ebf987cb78e88c7285db2103a753bf2e39d89729728fb52e7071929c97"
+      "bytes": 4007,
+      "sha256": "f357bf80f93b785a0f6d8bfb2aacdce738c3f154fcf2af4efd969f191ef35450"
     },
     {
       "path": "social/instagram/caption.txt",
